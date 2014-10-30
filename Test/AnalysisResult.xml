@@ -1,0 +1,13 @@
+<CodeDependencyAnalyzer>
+	<name>Text Editor Trunk</name>
+	<path>C:/Windows/</path>
+	<dependencies>
+		<dependency file_name="MainWindow.h" depends_on="" />
+		<dependency file_name="MainWindow.cpp" depends_on="MainWindow.h,FileManager.h" />
+		<dependency file_name="FileManager.h" depends_on="" />
+		<dependency file_name="FileManager.cpp" depends_on="FileManager.h" />
+		<dependency file_name="NotePadWindow.h" depends_on="" />
+		<dependency file_name="NotePadWindow.cpp" depends_on="NotePadWindow.h" />
+		<dependency file_name="Executive.cpp" depends_on="MainWindow.h" />
+	</dependencies>
+</CodeDependencyAnalyzer>

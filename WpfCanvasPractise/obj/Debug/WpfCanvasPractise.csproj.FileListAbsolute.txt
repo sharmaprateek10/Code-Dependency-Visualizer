@@ -1,0 +1,13 @@
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\bin\Debug\WpfCanvasPractise.exe.config
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\bin\Debug\WpfCanvasPractise.exe
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\bin\Debug\WpfCanvasPractise.pdb
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise.csprojResolveAssemblyReference.cache
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\MainWindow.baml
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\MainWindow.g.cs
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\App.g.cs
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise_MarkupCompile.cache
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise.g.resources
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise.Properties.Resources.resources
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise.csproj.GenerateResource.Cache
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise.exe
+C:\Users\pshar_000\Downloads\Graph\WpfCanvasPractise\obj\Debug\WpfCanvasPractise.pdb
